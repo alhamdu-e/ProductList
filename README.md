@@ -1,4 +1,4 @@
-# simple fronted website built using react,TailwindCSs 
+# Simple Frontend website built using React and TailwindCSS 
 
 
 # Getting Started with Create React App
