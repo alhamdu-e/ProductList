@@ -1,4 +1,4 @@
-import { useEffect, useReducer, useState, useSyncExternalStore } from "react";
+import { useEffect, useReducer, useState } from "react";
 import desserts from "./data";
 
 const initialState = [];
